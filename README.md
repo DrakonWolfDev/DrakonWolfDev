@@ -3,7 +3,7 @@
 Systems-focused DayZ modder and developer.  
 Co-owner & admin at New Dawn UK PvE servers.
 
-I build clean, versioned tools, quality-of-life improvements, and controlled system overrides for DayZ — while expanding into broader game systems development.
+I build clean, modular administrative tools, quality-of-life improvements, and controlled system overrides for DayZ — designed to function independently or as part of a cohesive admin tool suite.
 
 ---
 
