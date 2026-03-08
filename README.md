@@ -28,5 +28,3 @@ Tested with vanilla DayZ and Expansion.
 ---
 
 More structured projects coming soon.
-# DrakonWolfDev
-
