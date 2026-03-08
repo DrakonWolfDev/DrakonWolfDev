@@ -7,7 +7,13 @@ I build clean, modular administrative tools, quality-of-life improvements, and c
 
 ---
 
-## 🔧 DayZ Projects
+## 🔧 Featured Projects
+
+### DayZ Admin Tools
+A modular suite of administrative and quality-of-life tools for DayZ servers.  
+Each tool can function independently or as part of a cohesive toolkit.
+
+[View Admin Tools Hub](https://github.com/DrakonWolfDev/DayZ-Admin-Tools)
 
 ### DayZ Admin Repair Kit
 Admin repair override tool that restores supported items directly to pristine in a single action.  
