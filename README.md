@@ -21,6 +21,12 @@ Tested with vanilla DayZ and Expansion.
 
 [View Repository](https://github.com/DrakonWolfDev/DayZ-Admin-Repair-Kit)
 
+### DayZ Ouroboros Battery
+The Ouroboros Battery introduces two high-capacity battery variants designed for admin use and extended gameplay scenarios. 
+Tested with vanilla DayZ and Expansion.
+
+[View Repository](https://github.com/DrakonWolfDev/DayZ-Ouroboros-Battery)
+
 ---
 
 ## 🎮 Development Focus
