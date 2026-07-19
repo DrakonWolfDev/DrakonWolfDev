@@ -12,7 +12,7 @@ I enjoy taking awkward, repetitive, or overly technical processes and turning th
 
 ### [Modular Vest System](https://github.com/DrakonWolfDev/ModularVestSystem)
 
-A maintained and modernized source release of Count Orlok's original Modular Vest System for DayZ.
+A maintained and modernised source release of Count Orlok's original Modular Vest System for DayZ.
 
 The project preserves the familiar MVS equipment system while repairing outdated scripts and configuration, improving Linux server compatibility, and bringing the mod forward for the DayZ 1.29 baseline.
 
@@ -32,9 +32,9 @@ A server-side DayZ mod that keeps bases free from infected and unwanted wildlife
 
 It automatically creates a pest-free zone around raised vanilla territory flags, keeping secured settlements clean and safe without affecting the rest of the world.
 
-### [HELLDIVERS 2 StreamController Plugin](https://github.com/DrakonWolfDev/streamcontroller_helldivers_2)
+### [HELLDIVERS 2 StreamController Plugin](https://github.com/jslay88/streamcontroller_helldivers_2))
 
-Contributor to a Linux-friendly StreamController plugin for triggering HELLDIVERS 2 stratagems from Stream Deck-style devices, including work around automated data, icon, and asset generation.
+Contributor to a Linux-friendly StreamController plugin for triggering HELLDIVERS 2 stratagems from Stream Deck-style devices, including selectable keybinds for stratagems.
 
 ---
 
@@ -46,15 +46,15 @@ A graphical DayZ launcher built with Linux players in mind. It aims to remove th
 
 ### WolfAPI
 
-A supporting API and caching layer for DayZ server discovery and related Wolf tooling, using PostgreSQL and Redis to handle server and mod information efficiently.
+A supporting API and caching layer for DayZ server discovery. Handling server and mod information securely and efficiently.
 
 ### Wolf Game Admin Panel
 
-An administration platform intended to bring DayZ server operations, player management, logs, and routine actions into one clearer interface.
+An administration platform intended to bring DayZ, Arma Reforger, Arma 4, and DayZ 2 admin and server operations, player management, logs, and routine actions into one clearer interface.
 
 ### SBMToolBox
 
-A collection of practical web tools for school business managers, designed to reduce repetitive spreadsheet, finance, workforce, reporting, and document-processing work without trying to replace the people doing it.
+A collection of practical web tools for School Business Managers, designed to reduce repetitive spreadsheet, finance, workforce, reporting, and document-processing work without trying to replace the people doing it.
 
 ---
 
