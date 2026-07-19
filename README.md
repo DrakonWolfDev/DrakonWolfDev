@@ -1,6 +1,6 @@
 # DrakonWolfDev
 
-Half dragon, half wolf, mostly powered by biscuits.
+Half Dragon, Half Wolf, mostly powered by biscuits.
 
 I am a systems-focused developer, DayZ modder, Linux enthusiast, and co-owner/admin of the **New Dawn UK PvE DayZ servers**.
 
