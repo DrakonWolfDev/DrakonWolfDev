@@ -1,42 +1,72 @@
 # DrakonWolfDev
 
-Systems-focused DayZ modder and developer.  
-Co-owner & admin at New Dawn UK PvE servers.
+Half dragon, half wolf, mostly powered by biscuits.
 
-I build clean, modular administrative tools, quality-of-life improvements, and controlled system overrides for DayZ — designed to function independently or as part of a cohesive admin tool suite.
+I am a systems-focused developer, DayZ modder, Linux enthusiast, and co-owner/admin of the **New Dawn UK PvE DayZ servers**.
 
----
-
-## 🔧 Featured Projects
-
-### DayZ Admin Tools
-A modular suite of administrative and quality-of-life tools for DayZ servers.  
-Each tool can function independently or as part of a cohesive toolkit.
-
-[View Admin Tools Hub](https://github.com/DrakonWolfDev/DayZ-Admin-Tools)
-
-### DayZ Admin Repair Kit
-Admin repair override tool that restores supported items directly to pristine in a single action.  
-Tested with vanilla DayZ and Expansion.
-
-[View Repository](https://github.com/DrakonWolfDev/DayZ-Admin-Repair-Kit)
-
-### DayZ Ouroboros Battery
-The Ouroboros Battery introduces two high-capacity battery variants designed for admin use and extended gameplay scenarios. 
-Tested with vanilla DayZ and Expansion.
-
-[View Repository](https://github.com/DrakonWolfDev/DayZ-Ouroboros-Battery)
+I enjoy taking awkward, repetitive, or overly technical processes and turning them into tools that feel calm and straightforward to use. My work now ranges from DayZ mods and server tooling to Linux desktop applications, APIs, administrative systems, and early game-development experiments.
 
 ---
 
-## 🎮 Development Focus
+## Featured projects
 
-- Administrative and quality-of-life tooling for DayZ servers  
-- Clean, maintainable mod architecture  
-- Controlled system overrides  
-- Versioned and documented releases  
-- Expanding into Unity-based game systems development  
+### [Modular Vest System](https://github.com/DrakonWolfDev/ModularVestSystem)
+
+A maintained and modernized source release of Count Orlok's original Modular Vest System for DayZ.
+
+The project preserves the familiar MVS equipment system while repairing outdated scripts and configuration, improving Linux server compatibility, and bringing the mod forward for the DayZ 1.29 baseline.
+
+### [DayZ Admin Tools](https://github.com/DrakonWolfDev/DayZ-Admin-Tools)
+
+A growing collection of modular administrative and quality-of-life tools for DayZ servers. Each component is designed to work independently rather than forcing server owners to install a large all-or-nothing package.
+
+Current public tools include:
+
+- [DayZ Admin Repair Kit](https://github.com/DrakonWolfDev/DayZ-Admin-Repair-Kit)
+- [DayZ Ouroboros Battery](https://github.com/DrakonWolfDev/DayZ-Ouroboros-Battery)
+- [DayZ Admin LEHS Override](https://github.com/DrakonWolfDev/DayZ-Admin-LEHS-Override)
+
+### [Territory Pest Control](https://steamcommunity.com/sharedfiles/filedetails/?id=3755011798)
+
+A released DayZ server mod that removes abandoned territory flags and their associated construction after a configurable period, helping server owners manage forgotten bases without regular manual cleanup.
+
+### [HELLDIVERS 2 StreamController Plugin](https://github.com/DrakonWolfDev/streamcontroller_helldivers_2)
+
+Contributor to a Linux-friendly StreamController plugin for triggering HELLDIVERS 2 stratagems from Stream Deck-style devices, including work around automated data, icon, and asset generation.
 
 ---
 
-More structured projects coming soon.
+## In development
+
+### Wolf Launcher
+
+A graphical DayZ launcher built with Linux players in mind. It aims to remove the usual pain around modded servers through automatic mod installation and updates, server preflight checks, Steam handoff, and a calm interface that keeps advanced detail available without placing it in everyone's way.
+
+### WolfAPI
+
+A supporting API and caching layer for DayZ server discovery and related Wolf tooling, using PostgreSQL and Redis to handle server and mod information efficiently.
+
+### Wolf Game Admin Panel
+
+An administration platform intended to bring DayZ server operations, player management, logs, and routine actions into one clearer interface.
+
+### SBMToolBox
+
+A collection of practical web tools for school business managers, designed to reduce repetitive spreadsheet, finance, workforce, reporting, and document-processing work without trying to replace the people doing it.
+
+---
+
+## Development interests
+
+- DayZ modding, server systems, and administration tooling
+- Linux desktop applications and gaming tools
+- APIs, automation, and data-heavy backend services
+- Calm interfaces for complicated workflows
+- Modular tools that solve one problem well
+- Game systems, prototypes, and interactive design
+
+---
+
+Most of these projects began because something was unnecessarily difficult, repetitive, or missing entirely.
+
+The long-term ambition is simple: keep building useful and occasionally weird things — preferably from a quiet workshop, with a reliable supply of biscuits.
