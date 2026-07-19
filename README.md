@@ -32,7 +32,7 @@ A server-side DayZ mod that keeps bases free from infected and unwanted wildlife
 
 It automatically creates a pest-free zone around raised vanilla territory flags, keeping secured settlements clean and safe without affecting the rest of the world.
 
-### [HELLDIVERS 2 StreamController Plugin](https://github.com/jslay88/streamcontroller_helldivers_2))
+### [HELLDIVERS 2 StreamController Plugin](https://github.com/jslay88/streamcontroller_helldivers_2)
 
 Contributor to a Linux-friendly StreamController plugin for triggering HELLDIVERS 2 stratagems from Stream Deck-style devices, including selectable keybinds for stratagems.
 
@@ -72,3 +72,9 @@ A collection of practical web tools for School Business Managers, designed to re
 Most of these projects began because something was unnecessarily difficult, repetitive, or missing entirely.
 
 The long-term ambition is simple: keep building useful and occasionally weird things — preferably from a quiet workshop, with a reliable supply of biscuits.
+
+## 🍪 Buy the Dragon a Biscuit
+
+If something I have built has saved you time, fixed an annoying problem, or made your day a little easier, you can [support my open-source work through GitHub Sponsors](https://github.com/sponsors/DrakonWolfDev).
+
+Support is never expected, but it helps cover development, domains, hosting, testing, and the occasional emergency biscuit.
