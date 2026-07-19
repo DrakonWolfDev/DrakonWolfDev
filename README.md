@@ -28,7 +28,9 @@ Current public tools include:
 
 ### [Territory Pest Control](https://steamcommunity.com/sharedfiles/filedetails/?id=3755011798)
 
-A released DayZ server mod that removes abandoned territory flags and their associated construction after a configurable period, helping server owners manage forgotten bases without regular manual cleanup.
+A server-side DayZ mod that keeps bases free from infected and unwanted wildlife.
+
+It automatically creates a pest-free zone around raised vanilla territory flags, keeping secured settlements clean and safe without affecting the rest of the world.
 
 ### [HELLDIVERS 2 StreamController Plugin](https://github.com/DrakonWolfDev/streamcontroller_helldivers_2)
 
