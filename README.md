@@ -1,80 +1,70 @@
 # DrakonWolfDev
 
-Half Dragon, Half Wolf, mostly powered by biscuits.
+**Half Dragon, Half Wolf, mostly powered by biscuits.** 🐉🐺🍪
 
-I am a systems-focused developer, DayZ modder, Linux enthusiast, and co-owner/admin of the **New Dawn UK PvE DayZ servers**.
+I'm a systems-focused developer, DayZ modder, Linux enthusiast, and co-owner/admin of the **New Dawn UK PvE DayZ servers**.
 
-I enjoy taking awkward, repetitive, or overly technical processes and turning them into tools that feel calm and straightforward to use. My work now ranges from DayZ mods and server tooling to Linux desktop applications, APIs, administrative systems, and early game-development experiments.
+I like taking things that are unnecessarily complicated, repetitive, or downright irritating and building tools that make them calmer and easier to use. Sometimes that's a DayZ mod. Sometimes it's a Linux desktop app, an API, a school administration tool, or a game nobody asked for.
 
----
+A lot of that work now lives under **[Wolf Forge](https://wolf-forge.co.uk/)**: a small, biscuit-powered software workshop.
 
-## Featured projects
-
-### [Modular Vest System](https://github.com/DrakonWolfDev/ModularVestSystem)
-
-A maintained and modernised source release of Count Orlok's original Modular Vest System for DayZ.
-
-The project preserves the familiar MVS equipment system while repairing outdated scripts and configuration, improving Linux server compatibility, and bringing the mod forward for the DayZ 1.29 baseline.
-
-### [DayZ Admin Tools](https://github.com/DrakonWolfDev/DayZ-Admin-Tools)
-
-A growing collection of modular administrative and quality-of-life tools for DayZ servers. Each component is designed to work independently rather than forcing server owners to install a large all-or-nothing package.
-
-Current public tools include:
-
-- [DayZ Admin Repair Kit](https://github.com/DrakonWolfDev/DayZ-Admin-Repair-Kit)
-- [DayZ Ouroboros Battery](https://github.com/DrakonWolfDev/DayZ-Ouroboros-Battery)
-- [DayZ Admin LEHS Override](https://github.com/DrakonWolfDev/DayZ-Admin-LEHS-Override)
-
-### [Territory Pest Control](https://steamcommunity.com/sharedfiles/filedetails/?id=3755011798)
-
-A server-side DayZ mod that keeps bases free from infected and unwanted wildlife.
-
-It automatically creates a pest-free zone around raised vanilla territory flags, keeping secured settlements clean and safe without affecting the rest of the world.
-
-### [HELLDIVERS 2 StreamController Plugin](https://github.com/jslay88/streamcontroller_helldivers_2)
-
-Contributor to a Linux-friendly StreamController plugin for triggering HELLDIVERS 2 stratagems from Stream Deck-style devices, including selectable keybinds for stratagems.
+> Complex underneath. Calm and simple on the surface.
 
 ---
 
-## In development
+## From the Forge
 
-### Wolf Launcher
+### Released and available
 
-A graphical DayZ launcher built with Linux players in mind. It aims to remove the usual pain around modded servers through automatic mod installation and updates, server preflight checks, Steam handoff, and a calm interface that keeps advanced detail available without placing it in everyone's way.
+- **[Wolf Launcher](https://github.com/DrakonWolfDev/WolfLauncher)** — A Linux-first DayZ launcher with Windows support, server discovery, mod handling, preflight checks, and a focus on making the complicated parts less painful. Public beta releases are available.
+- **[cosyFTP](https://github.com/DrakonWolfDev/cosy-ftp)** — A lightweight FTP client born from the conviction that transferring files shouldn't be an obstacle course.
+- **[Photo Fun Frames](https://photofunframes.co.uk/)** — Simple, playful photo frames in the browser, with processing kept on your device.
+- **[Modular Vest System](https://github.com/DrakonWolfDev/ModularVestSystem)** — Maintenance and modernisation work on Count Orlok's original DayZ equipment mod.
+- **[DayZ Admin Tools](https://github.com/DrakonWolfDev/DayZ-Admin-Tools)** — Modular, practical utilities for server administrators, including the [Repair Kit](https://github.com/DrakonWolfDev/DayZ-Admin-Repair-Kit), [Ouroboros Battery](https://github.com/DrakonWolfDev/DayZ-Ouroboros-Battery), and [LEHS Override](https://github.com/DrakonWolfDev/DayZ-Admin-LEHS-Override).
+- **[Territory Pest Control](https://steamcommunity.com/sharedfiles/filedetails/?id=3755011798)** — A server-side DayZ mod that keeps infected and unwanted wildlife out of areas around raised vanilla territory flags.
 
-### WolfAPI
+### On the workbench
 
-A supporting API and caching layer for DayZ server discovery. Handling server and mod information securely and efficiently.
+These are at different stages of development, testing, or exploration—not all are public releases.
 
-### Wolf Game Admin Panel
+- **WolfAPI** — Current DayZ server discovery and directory data, with caching and quality checks.
+- **Wolf Insights** — A longer-term home for historical server data and analysis.
+- **AMP (Andy's Media Player)** — A lightweight media viewer/player with minimal distractions.
+- **Wolf Config** — Tools to make editing DayZ configuration less of a chore.
+- **Wolf PBO tools** — Unpacking, building, and configuration tools, individually and as a cohesive toolbox.
+- **Biscuit Jigsaw** — A cosy browser puzzle game about taking your time, not racing a clock.
+- **SBMToolBox** — Practical tools for School Business Managers: fewer repetitive jobs, clearer workflows, and no attempt to replace the humans doing the work.
 
-An administration platform intended to bring DayZ, Arma Reforger, Arma 4, and DayZ 2 admin and server operations, player management, logs, and routine actions into one clearer interface.
+Some experiments get shelved when a simpler existing solution turns out to be better. That's a success too.
 
-### SBMToolBox
+### Contributions
 
-A collection of practical web tools for School Business Managers, designed to reduce repetitive spreadsheet, finance, workforce, reporting, and document-processing work without trying to replace the people doing it.
+- **[HELLDIVERS 2 StreamController plugin](https://github.com/jslay88/streamcontroller_helldivers_2)** — Contributions to a Linux-friendly way of triggering stratagems from Stream Deck-style devices.
 
 ---
 
-## Development interests
+## How I like to build
 
-- DayZ modding, server systems, and administration tooling
-- Linux desktop applications and gaming tools
-- APIs, automation, and data-heavy backend services
-- Calm interfaces for complicated workflows
-- Modular tools that solve one problem well
-- Game systems, prototypes, and interactive design
+- **Useful before clever.** Solve a real problem, even if it's a small one.
+- **Calm on the surface.** Keep complexity available without making everybody wrestle with it.
+- **Small tools are allowed to stay small.** Not everything needs to become a platform.
+- **Craft matters.** Judge the finished experience, not whether the work was made by a human, AI, or both.
+- **Privacy and user choice matter.** Say what a tool does, and don't make surprises part of the interface.
+- **Build, test, learn, improve.** Sometimes the first version is just the beginning.
+
+> Built by humans. Built by AI. Built together.  
+> Judged by what we create, not how we create it.  
+> At Wolf Forge, every project deserves care, craftsmanship and a reason to exist.  
+> **Powered by biscuits. Made with care. Don't be a dick.**
 
 ---
-
-Most of these projects began because something was unnecessarily difficult, repetitive, or missing entirely.
-
-The long-term ambition is simple: keep building useful and occasionally weird things — preferably from a quiet workshop, with a reliable supply of biscuits.
 
 ## 🍪 Buy the Dragon a Biscuit
 
-If something I have built has saved you time, fixed an annoying problem, or made your day a little easier, you can [support my open-source work through GitHub Sponsors](https://github.com/sponsors/DrakonWolfDev).
+If something I've made has saved you time, fixed an annoying problem, or made your day easier, you can [support my open-source work through GitHub Sponsors](https://github.com/sponsors/DrakonWolfDev).
 
-Support is never expected, but it helps cover development, domains, hosting, testing, and the occasional emergency biscuit.
+It's never expected. It helps with development, domains, hosting, testing, and the occasional emergency biscuit.
+
+---
+
+The long-term ambition is still simple: **keep building useful and occasionally weird things—preferably from a quiet workshop, with a reliable supply of biscuits.**
