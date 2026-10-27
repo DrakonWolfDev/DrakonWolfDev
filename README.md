@@ -27,7 +27,7 @@ A lot of that work now lives under **[Wolf Forge](https://wolf-forge.co.uk/)**: 
 
 ### On the workbench
 
-These are at different stages of development, testing, or exploration—not all are public releases.
+These are at different stages of development, testing, or exploration; not all are public releases.
 
 - **Wolf Insights** - A longer-term home for historical server data and analysis.
 - **Wolf Config** - Tools to make editing DayZ configuration less of a chore.
