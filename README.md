@@ -17,6 +17,8 @@ A lot of that work now lives under **[Wolf Forge](https://wolf-forge.co.uk/)**: 
 ### Released and available
 
 - **[Wolf Launcher](https://github.com/DrakonWolfDev/WolfLauncher)** — A Linux-first DayZ launcher with Windows support, server discovery, mod handling, preflight checks, and a focus on making the complicated parts less painful. Public beta releases are available.
+- **[WolfAPI](https://github.com/DrakonWolfDev/WolfAPI)** — The released DayZ server discovery API, providing current directory data, caching, and quality information.
+- **[AMP (Andy's Media Player)](https://github.com/DrakonWolfDev/AMP)** — A lightweight media viewer and player with a simple, distraction-free interface.
 - **[cosyFTP](https://github.com/DrakonWolfDev/cosy-ftp)** — A lightweight FTP client born from the conviction that transferring files shouldn't be an obstacle course.
 - **[Photo Fun Frames](https://photofunframes.co.uk/)** — Simple, playful photo frames in the browser, with processing kept on your device.
 - **[Modular Vest System](https://github.com/DrakonWolfDev/ModularVestSystem)** — Maintenance and modernisation work on Count Orlok's original DayZ equipment mod.
@@ -27,9 +29,7 @@ A lot of that work now lives under **[Wolf Forge](https://wolf-forge.co.uk/)**: 
 
 These are at different stages of development, testing, or exploration—not all are public releases.
 
-- **WolfAPI** — Current DayZ server discovery and directory data, with caching and quality checks.
 - **Wolf Insights** — A longer-term home for historical server data and analysis.
-- **AMP (Andy's Media Player)** — A lightweight media viewer/player with minimal distractions.
 - **Wolf Config** — Tools to make editing DayZ configuration less of a chore.
 - **Wolf PBO tools** — Unpacking, building, and configuration tools, individually and as a cohesive toolbox.
 - **Biscuit Jigsaw** — A cosy browser puzzle game about taking your time, not racing a clock.
