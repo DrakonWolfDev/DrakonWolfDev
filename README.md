@@ -45,11 +45,11 @@ Some experiments get shelved when a simpler existing solution turns out to be be
 
 ## How I like to build
 
-- **Useful before clever.** Solve a real problem, even if it's a small one.
+- **Calm and clever.** Solve problems without causing cognitive overload.
 - **Calm on the surface.** Keep complexity available without making everybody wrestle with it.
 - **Small tools are allowed to stay small.** Not everything needs to become a platform.
 - **Craft matters.** Judge the finished experience, not whether the work was made by a human, AI, or both.
-- **Privacy and user choice matter.** Say what a tool does, and don't make surprises part of the interface.
+- **Privacy comes first.** Zero tracking, no unnecessary data collection. Your data stays with you.
 - **Build, test, learn, improve.** Sometimes the first version is just the beginning.
 
 > Built by humans. Built by AI. Built together.  
