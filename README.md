@@ -16,30 +16,30 @@ A lot of that work now lives under **[Wolf Forge](https://wolf-forge.co.uk/)**: 
 
 ### Released and available
 
-- **[Wolf Launcher](https://github.com/DrakonWolfDev/WolfLauncher)** — A Linux-first DayZ launcher with Windows support, server discovery, mod handling, preflight checks, and a focus on making the complicated parts less painful. Public beta releases are available.
-- **[WolfAPI](https://github.com/DrakonWolfDev/WolfAPI)** — The released DayZ server discovery API, providing current directory data, caching, and quality information.
-- **[AMP (Andy's Media Player)](https://github.com/DrakonWolfDev/AMP)** — A lightweight media viewer and player with a simple, distraction-free interface.
-- **[cosyFTP](https://github.com/DrakonWolfDev/cosy-ftp)** — A lightweight FTP client born from the conviction that transferring files shouldn't be an obstacle course.
-- **[Photo Fun Frames](https://photofunframes.co.uk/)** — Simple, playful photo frames in the browser, with processing kept on your device.
-- **[Modular Vest System](https://github.com/DrakonWolfDev/ModularVestSystem)** — Maintenance and modernisation work on Count Orlok's original DayZ equipment mod.
-- **[DayZ Admin Tools](https://github.com/DrakonWolfDev/DayZ-Admin-Tools)** — Modular, practical utilities for server administrators, including the [Repair Kit](https://github.com/DrakonWolfDev/DayZ-Admin-Repair-Kit), [Ouroboros Battery](https://github.com/DrakonWolfDev/DayZ-Ouroboros-Battery), and [LEHS Override](https://github.com/DrakonWolfDev/DayZ-Admin-LEHS-Override).
-- **[Territory Pest Control](https://steamcommunity.com/sharedfiles/filedetails/?id=3755011798)** — A server-side DayZ mod that keeps infected and unwanted wildlife out of areas around raised vanilla territory flags.
+- **[Wolf Launcher](https://github.com/DrakonWolfDev/WolfLauncher)** - A Linux-first DayZ launcher with Windows support, server discovery, mod handling, preflight checks, and a focus on making the complicated parts less painful. Public beta releases are available.
+- **[WolfAPI](https://github.com/DrakonWolfDev/WolfAPI)** - The released DayZ server discovery API, providing current directory data, caching, and quality information.
+- **[AMP (Andy's Media Player)](https://github.com/DrakonWolfDev/AMP)** - A lightweight media viewer and player with a simple, distraction-free interface.
+- **[cosyFTP](https://github.com/DrakonWolfDev/cosy-ftp)** - A lightweight FTP client born from the conviction that transferring files shouldn't be an obstacle course.
+- **[Photo Fun Frames](https://photofunframes.co.uk/)** - Simple, playful photo frames in the browser, with processing kept on your device.
+- **[Modular Vest System](https://github.com/DrakonWolfDev/ModularVestSystem)** - Maintenance and modernisation work on Count Orlok's original DayZ equipment mod.
+- **[DayZ Admin Tools](https://github.com/DrakonWolfDev/DayZ-Admin-Tools)** - Modular, practical utilities for server administrators, including the [Repair Kit](https://github.com/DrakonWolfDev/DayZ-Admin-Repair-Kit), [Ouroboros Battery](https://github.com/DrakonWolfDev/DayZ-Ouroboros-Battery), and [LEHS Override](https://github.com/DrakonWolfDev/DayZ-Admin-LEHS-Override).
+- **[Territory Pest Control](https://steamcommunity.com/sharedfiles/filedetails/?id=3755011798)** - A server-side DayZ mod that keeps infected and unwanted wildlife out of areas around raised vanilla territory flags.
 
 ### On the workbench
 
 These are at different stages of development, testing, or exploration—not all are public releases.
 
-- **Wolf Insights** — A longer-term home for historical server data and analysis.
-- **Wolf Config** — Tools to make editing DayZ configuration less of a chore.
-- **Wolf PBO tools** — Unpacking, building, and configuration tools, individually and as a cohesive toolbox.
-- **Biscuit Jigsaw** — A cosy browser puzzle game about taking your time, not racing a clock.
-- **SBMToolBox** — Practical tools for School Business Managers: fewer repetitive jobs, clearer workflows, and no attempt to replace the humans doing the work.
+- **Wolf Insights** - A longer-term home for historical server data and analysis.
+- **Wolf Config** - Tools to make editing DayZ configuration less of a chore.
+- **Wolf PBO tools** - Unpacking, building, and configuration tools, individually and as a cohesive toolbox.
+- **Biscuit Jigsaw** - A cosy browser puzzle game about taking your time, not racing a clock.
+- **SBMToolBox** - Practical tools for School Business Managers: fewer repetitive jobs, clearer workflows, and no attempt to replace the humans doing the work.
 
 Some experiments get shelved when a simpler existing solution turns out to be better. That's a success too.
 
 ### Contributions
 
-- **[HELLDIVERS 2 StreamController plugin](https://github.com/jslay88/streamcontroller_helldivers_2)** — Contributions to a Linux-friendly way of triggering stratagems from Stream Deck-style devices.
+- **[HELLDIVERS 2 StreamController plugin](https://github.com/jslay88/streamcontroller_helldivers_2)** - Contributions to a Linux-friendly way of triggering stratagems from Stream Deck-style devices.
 
 ---
 
@@ -55,7 +55,7 @@ Some experiments get shelved when a simpler existing solution turns out to be be
 > Built by humans. Built by AI. Built together.  
 > Judged by what we create, not how we create it.  
 > At Wolf Forge, every project deserves care, craftsmanship and a reason to exist.  
-> **Powered by biscuits. Made with care. Don't be a dick.**
+> **Made with care. Powered by biscuits.**
 
 ---
 
@@ -67,4 +67,4 @@ It's never expected. It helps with development, domains, hosting, testing, and t
 
 ---
 
-The long-term ambition is still simple: **keep building useful and occasionally weird things—preferably from a quiet workshop, with a reliable supply of biscuits.**
+The long-term ambition is still simple: **keep building useful and occasionally weird things; preferably from a quiet workshop, with a reliable supply of biscuits.**
